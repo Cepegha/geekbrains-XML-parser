@@ -9,7 +9,7 @@ import javax.xml.parsers.DocumentBuilderFactory;
  * A sample DOM writer. This sample program illustrates how to
  * traverse a DOM tree.
  *
- * Основной недостаток парсера DOM: полностью загружает xml в оперативную память
+ * РћСЃРЅРѕРІРЅРѕР№ РЅРµРґРѕСЃС‚Р°С‚РѕРє РїР°СЂСЃРµСЂР° DOM: РїРѕР»РЅРѕСЃС‚СЊСЋ Р·Р°РіСЂСѓР¶Р°РµС‚ xml РІ РѕРїРµСЂР°С‚РёРІРЅСѓСЋ РїР°РјСЏС‚СЊ
  */
 
 public class TestDom
